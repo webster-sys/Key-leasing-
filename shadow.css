@@ -125,7 +125,7 @@ nav #icon{
 	display: none;
 }
 
-@media (max-width: 968px){
+@media (max-width: 960px){
 
 	.logo{
 		position: absolute;
